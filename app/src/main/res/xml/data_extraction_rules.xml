@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude
+            domain="file"
+            path="qz1_logs/" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude
+            domain="file"
+            path="qz1_logs/" />
+    </device-transfer>
+</data-extraction-rules>
