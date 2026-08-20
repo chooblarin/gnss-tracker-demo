@@ -53,11 +53,6 @@ android {
         buildConfig = true
         compose = true
     }
-    sourceSets {
-        getByName("test") {
-            resources.directories.add(rootProject.file("samples").path)
-        }
-    }
 }
 
 dependencies {

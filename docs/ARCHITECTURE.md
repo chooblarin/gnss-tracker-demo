@@ -98,7 +98,6 @@ QZ1とPhone GNSSではsampling intervalが一致しないため、配列indexで
 
 - GSAやGSV sentenceのparserを追加する
 - checksum不正数をUIへ表示する
-- synthetic sampleからsummaryを生成するテストを追加する
 - comparisonの時間窓を変更し、paired point数への影響を調べる
 - minSdkを引き下げ、必要なversion branchを整理する
 - Google Maps以外のmap rendererをrepository境界の外側で差し替える
